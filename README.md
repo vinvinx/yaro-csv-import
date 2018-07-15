@@ -1,16 +1,7 @@
 # Yaro CSV Import
 
-## Plugin Name
-Plugin name: Yaro CSV Import
-Tags: csv, import
-Tested up to: 5.0
-Stable tag: 5.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Plugin for importing data from a csv file.
-
 ## Description
+Plugin for importing data from a csv file.
 
 The first version of the plug-in will receive data from the csv file to add or update records of the page type.
 The main functions of the plugin:
