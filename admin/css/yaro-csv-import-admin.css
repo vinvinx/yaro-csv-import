@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+.yaro-panel .button{
+  margin-bottom: 20px;
+}
+#import-log {
+    height: 600px;
+    border: 1px solid #ccc;
+    overflow: auto;
+    max-width: 600px;
+}
